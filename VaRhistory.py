@@ -15,7 +15,7 @@ import re
 # Streamlit app layout
 def VaRwithoutmc():
     st.title("Value at Risk calculation app-v0.1")
-    st.markdown('###### This is a simple app to calculate value at risk  for a number of companies Based on historical data )
+    st.markdown('###### This is a simple app to calculate value at risk  for a number of companies Based on historical data ')
     st.markdown("###### Tips: Use at least more that one company to create portfolio otherwise this code will not work")
     st.markdown("###### Tips: We have 3 inputs to run this app. Frist we need at least two companies  stock symbol(stock symbol can be found in yahoo finance website)")
     st.markdown("###### Tips: Next we need the desired weigts to calculates portfolio.")
