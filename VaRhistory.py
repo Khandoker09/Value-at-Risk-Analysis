@@ -60,7 +60,7 @@ def VaRwithoutmc():
         days.append(d)
         days_VaR=VaR*np.sqrt(days)
         st.write(f'if we have cofidence level: {confidence_level} and then we have the posility to lose the amount of money in : {days} days is: {days_VaR}')
-        st.write(f'The value at risk in last {days} days is {days_VaR}')
+        st.write(f'The value at risk in last: {days} days is :{days_VaR}')
 
 if __name__ == "__main__":
           VaRwithoutmc()
