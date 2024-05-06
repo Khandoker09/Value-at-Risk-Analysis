@@ -1,9 +1,3 @@
-# Monte Carlo simulation
-
-its a non diterministic methods to simulate a problem that start at a random value 
-and result random value. everytime this simulation gives us a different result. using all  of 
-the result it creates a a normalize distribuition which give a close result of actual behavior
-
 # What is Daily Adjusted closing price?
 Its the closing price where dividend and stock splis were taken into consideration to
 get more accurate price value.
